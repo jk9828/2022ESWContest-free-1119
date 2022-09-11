@@ -1,0 +1,7 @@
+train: custom_dataset/train/
+val: custom_dataset/val/
+
+nc: 1
+
+names:
+  0 : bussidnum
